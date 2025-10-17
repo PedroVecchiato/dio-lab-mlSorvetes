@@ -1,0 +1,7 @@
+# Observações
+
+Aumentando a temperatura, as vendas de sorvete também aumentam.
+Nos dias frios, a demanda por sorvete cai bastante.
+O modelo conseguiu prever bem os dias de maior venda.
+A IA pode ajudar na produção e planejamento da sorveteria.
+
