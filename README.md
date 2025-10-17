@@ -10,4 +10,4 @@ O objetivo foi criar um modelo capaz de prever a quantidade de sorvetes vendidos
 *Print da Pipeline feita pelo design do AzureMl
 
 infelizmente não foi possivel registrar o projeto no MlFlow por conta da assinatura que possuo no azure (free trial)
-no entanto foi possivel tirar bons aprendizados e ter nocoes de como funciona o processo de aprendizado de máquina.
+no entanto foi possivel tirar bons aprendizados e ter uma noção de como funciona o processo de aprendizado de máquina.
